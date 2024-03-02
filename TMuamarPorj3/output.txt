@@ -1,0 +1,36 @@
+Comparison Number 1 for sequences 1 and 2:
+Longest Common Subsequence: GTCGTCGGAAGCCGGCCGAA
+Length: 20
+Number of Comparsions: 34
+Execution Time: 485200.0 ns
+
+Comparison Number 2 for sequences 1 and 3:
+Longest Common Subsequence: GTCGTCGGAAGCCGGCCGAAACCGGCGATGCGGAACCCG
+Length: 19
+Number of Comparsions: 51
+Execution Time: 95000.0 ns
+
+Comparison Number 3 for sequences 1 and 4:
+Longest Common Subsequence: GTCGTCGGAAGCCGGCCGAAACCGGCGATGCGGAACCCGCTGCTAAGGCA
+Length: 11
+Number of Comparsions: 34
+Execution Time: 37900.0 ns
+
+Comparison Number 4 for sequences 2 and 3:
+Longest Common Subsequence: GTCGTCGGAAGCCGGCCGAAACCGGCGATGCGGAACCCGCTGCTAAGGCAGCTTCGGGCCGTGCTTGTAA
+Length: 20
+Number of Comparsions: 46
+Execution Time: 80600.0 ns
+
+Comparison Number 5 for sequences 2 and 4:
+Longest Common Subsequence: GTCGTCGGAAGCCGGCCGAAACCGGCGATGCGGAACCCGCTGCTAAGGCAGCTTCGGGCCGTGCTTGTAAGCTTAATGTGCA
+Length: 12
+Number of Comparsions: 30
+Execution Time: 36700.0 ns
+
+Comparison Number 6 for sequences 3 and 4:
+Longest Common Subsequence: GTCGTCGGAAGCCGGCCGAAACCGGCGATGCGGAACCCGCTGCTAAGGCAGCTTCGGGCCGTGCTTGTAAGCTTAATGTGCATTGCTTATGTGCA
+Length: 13
+Number of Comparsions: 43
+Execution Time: 50800.0 ns
+
